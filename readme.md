@@ -1,4 +1,6 @@
-## Övning metod
+# Is Authorised
+
+### Del 1
 
 Skriv en metod isAuthorised som frågar användaren efter tre lösenord och som kontrollerar om alla tre är korrekta. Ni får själva bestämma 
 vilka de rätta lösenorden är. Metoden ska returnera true om användaren lyckades, och false annars. 
@@ -9,6 +11,6 @@ Tips 1: ni bör hålla räkningen på hur många försök användaren hittils ha
 
 Tips 2: använd loopar.
 
-## Utöka övningen
+### Del 2
 
 Gör så att ordningen användaren matar in lösenorden i inte spelar någon roll - om lösenorden är “piggy”, “snuff” och “bark” så ska ordningen “snuff”,”bark”,”piggy” också accepteras.
